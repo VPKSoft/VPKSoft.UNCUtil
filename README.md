@@ -1,5 +1,5 @@
 # VPKSoft.UNCUtil
-An utility to access Windows (SMB/CIFS) shares with credentials.
+An utility to access Windows ([SMB](https://en.wikipedia.org/wiki/Server_Message_Block)/[CIFS](https://en.wikipedia.org/wiki/Server_Message_Block)) shares with credentials.
 
 ## Usage
 ```C#
