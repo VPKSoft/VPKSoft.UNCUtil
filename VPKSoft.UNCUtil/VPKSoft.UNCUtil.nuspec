@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://www.gnu.org/licenses/lgpl-3.0.txt</licenseUrl>
+    <projectUrl>https://www.vpksoft.net/2015-03-31-13-33-28/libraries/150-vpksoft-uncutil</projectUrl>
+    <iconUrl>https://www.vpksoft.net/site/VPKSoft.ico</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial NuGet release.</releaseNotes>
+    <copyright>Copyright © 2018 VPKSoft</copyright>
+    <tags>SMB CIFS utility library file wrapper</tags>
+  </metadata>
+</package>
